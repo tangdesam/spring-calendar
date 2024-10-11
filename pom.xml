@@ -12,7 +12,7 @@
 	<artifactId>spring-calendar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring Calendar</name>
-	<description>Simple application to demonstrate fullcalendar.io</description>
+	<description>Simple application to demonstrate fullcalendar.io with spring boot</description>
 	<url/>
 	<licenses>
 		<license/>
